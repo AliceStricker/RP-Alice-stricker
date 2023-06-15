@@ -140,7 +140,7 @@ body {
     grid-row: 2 / 3;
     display: flex;
     margin: auto;
-    width: 30vw;
+    width: 40vw;
     aspect-ratio: 16 / 9;
 }
 
